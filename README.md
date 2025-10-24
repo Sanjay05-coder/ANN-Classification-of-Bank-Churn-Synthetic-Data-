@@ -1,16 +1,24 @@
 Bank Churn Prediction using Artificial Neural Network
+
 Overview
+
 This project focuses on predicting customer churn for a bank using an Artificial Neural Network (ANN) built with TensorFlow and Keras. The goal is to classify whether a customer will exit the bank based on historical and demographic data.
 The model is trained for 100 epochs using:
 
+
 Activation Function: ReLU for hidden layers
+
 Output Activation: Sigmoid for binary classification
+
 Optimizer: Adam
+
 Loss Function: Binary Crossentropy
+
 Evaluation Metric: Accuracy
 
 
 Dataset
+
 The dataset used is the Binary Classification of Bank Churn Synthetic Data from Kaggle. It contains customer details and engineered features for better prediction.
 Key Features
 
